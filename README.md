@@ -1,6 +1,6 @@
 # Interactive Excel Dashboard
 
-Hey welcome! Below is the screenshot of the final Dashboard. </br>
+Hey welcome! Below, as you can see, is the screenshot of the final Dashboard. You can download the raw csv files from the folder above.</br></br>
 [Click here to find the Online Interactive Dashboard](https://onedrive.live.com/view.aspx?resid=805EBE40645B2DD6!4145&ithint=file%2cxlsx&authkey=!ALz7VhXEErxs_gI) </br>
 [Click here to find the Video Analysis](https://www.youtube.com/watch?v=oWy7ZkS3axE&t=275s)
 
